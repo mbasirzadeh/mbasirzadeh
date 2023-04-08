@@ -5,7 +5,7 @@
 - 📫 bassirzadehm@gmail.com
 
 - projects:
-- super seller (private) superseller.ir
+- super seller (private) website: superseller.ir
 - music player
 
 <!---
