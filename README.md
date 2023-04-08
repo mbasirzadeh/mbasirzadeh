@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mbasirzadeh
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- android developer
 - 📫 bassirzadehm@gmail.com
 
 - projects:
