@@ -2,7 +2,11 @@
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 bassirzadehm@gmail.com
+
+projects:
+super seller(private)
+music player
 
 <!---
 mbasirzadeh/mbasirzadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
