@@ -2,9 +2,7 @@
 - android developer
 - 📫 bassirzadehm@gmail.com
 
-- projects:
-- super seller (private) website: superseller.ir
-- music player
+interested in android <3
 
 <!---
 mbasirzadeh/mbasirzadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
